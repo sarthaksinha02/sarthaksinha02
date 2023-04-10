@@ -1,4 +1,9 @@
+<div align="center">
+<img hight="200" width="800" alt="GIF" align="center" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/Welcome_to_my_profile_1.gif">
+
 ### Hi there 👋
+
+</div>
 
 <!--
 **sarthaksinha02/sarthaksinha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
