@@ -56,26 +56,6 @@ I'm a passionate **Full Stack Developer** specializing in building fast, respons
 
 ---
 
-# 📊 GitHub Stats (Premium Themes)
-
-<p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=sarthaksinha02&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksinha02&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksinha02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarthaksinha02/sarthaksinha02/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
