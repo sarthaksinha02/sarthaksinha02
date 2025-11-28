@@ -1,67 +1,96 @@
-<h1 align="center">Hi 👋, I'm Sarthak Sinha</h1>
-<h3 align="center">Full Stack Developer • React.js • Node.js • MongoDB • MySQL</h3>
-
----
-
-## 🚀 About Me
-I'm a Full Stack Developer skilled in **React.js, Node.js, Express.js, MongoDB, MySQL, REST APIs**, and responsive UI development.  
-I enjoy building scalable, user-centric applications with clean code and modern UI.
-
-- 🔭 Currently working on: **Portfolio Website**
-- 🌱 Learning: **Advanced Node.js & DevOps basics**
-- 👨‍💻 Portfolio: https://portfolio-sarthak.vercel.app
-- 💬 Ask me about **React, JavaScript, MERN Stack**
-- 📫 Reach me at: **sarthak.sinha0212@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-React.js | JavaScript (ES6+) | TailwindCSS | HTML5 | CSS3  
-
-### **Backend**
-Node.js | Express.js | REST APIs | JWT Auth | MVC
-
-### **Database**
-MongoDB | MySQL
-
-### **Tools**
-Git | GitHub | Postman | VS Code
-
----
-
-## 📌 Featured Projects
-
-### 🔹 StudyNotion — Ed-Tech Platform
-Full-stack MERN platform with authentication, course management, and user enrollment.
-
-### 🔹 N-Queens Visualizer
-C++ based algorithm visualizer showing backtracking step-by-step.
-
----
-
-## 📊 GitHub Stats
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#60a5fa">Sarthak Sinha</span></h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | React.js | Node.js</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarthaksinha02&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksinha02&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=6AA7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Building+Scalable+User-Centric+Applications" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🧑‍💻 About Me
+
+I'm a passionate **Full Stack Developer** specializing in building fast, responsive & scalable web applications using modern JavaScript technologies.
+
+- 🔭 Currently working on: **Portfolio Website & MERN Projects**
+- 🌱 Learning: **Advanced Backend + DevOps Basics**
+- 💬 Ask me about: **React.js, JavaScript, Node.js, MongoDB**
+- 📫 Reach me at **sarthak.sinha0212@gmail.com**
+- 🌐 Portfolio: **https://portfolio-sarthak.vercel.app**
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
+</p>
+
+## 🖥 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Database  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🧰 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 📘 StudyNotion — Full Stack Ed-Tech Platform
+🔹 MERN Stack platform featuring authentication, course management, and enrollment workflows.  
+🔹 Scalable architecture with MongoDB, Express.js, Node.js, React.js.
+
+### ♟️ N-Queens Visualizer — C++ Algorithm Visualizer  
+🔹 Backtracking visualizer showing step-by-step solution logic.  
+🔹 Built with optimized recursion and time complexity analysis.
+
+---
+
+# 📊 GitHub Stats (Premium Themes)
+
+<p align="center">
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=sarthaksinha02&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaksinha02&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksinha02&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarthaksinha02/sarthaksinha02/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-sinha02" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/sarthaksinha02" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting!**
+<h3 align="center">⭐ Thanks for visiting! ⭐</h3>
